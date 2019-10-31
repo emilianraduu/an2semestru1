@@ -1,0 +1,7 @@
+Port: 8001
+Locatie: /Users/Emilian/Documents/site 
+Index index.html 
+.html text/html 
+.txt text/plain 
+.png image/png 
+.jpg image/jpeg 
